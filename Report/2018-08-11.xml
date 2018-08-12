@@ -993,9 +993,9 @@
 			<DiffRatio>65.0%</DiffRatio>
 			<Paid>15000</Paid>
 			<Level>700</Level>
-			<Win>2</Win>
+			<Win>3</Win>
 			<Lost>0</Lost>
-			<Draw>4</Draw>
+			<Draw>3</Draw>
 			<PlaySec>4827</PlaySec>
 			<PlayTime>1시간 20분 27초 </PlayTime>
 			<Tags></Tags>
@@ -1024,8 +1024,8 @@
 			<Paid>-141000</Paid>
 			<Level>700</Level>
 			<Win>0</Win>
-			<Lost>2</Lost>
-			<Draw>4</Draw>
+			<Lost>3</Lost>
+			<Draw>3</Draw>
 			<PlaySec>4948</PlaySec>
 			<PlayTime>1시간 22분 28초 </PlayTime>
 			<Tags></Tags>
@@ -1144,8 +1144,8 @@
 			<Paid>15000</Paid>
 			<Level>800</Level>
 			<Win>1</Win>
-			<Lost>1</Lost>
-			<Draw>4</Draw>
+			<Lost>2</Lost>
+			<Draw>3</Draw>
 			<PlaySec>5384</PlaySec>
 			<PlayTime>1시간 29분 44초 </PlayTime>
 			<Tags></Tags>
@@ -1173,9 +1173,9 @@
 			<DiffRatio>57.9%</DiffRatio>
 			<Paid>15000</Paid>
 			<Level>700</Level>
-			<Win>1</Win>
+			<Win>2</Win>
 			<Lost>1</Lost>
-			<Draw>4</Draw>
+			<Draw>3</Draw>
 			<PlaySec>4783</PlaySec>
 			<PlayTime>1시간 19분 43초 </PlayTime>
 			<Tags></Tags>
@@ -2001,7 +2001,7 @@
 		<Finish>18:15:12</Finish>
 		<Elapsed>13분 58초</Elapsed>
 		<ElapsedSec>838</ElapsedSec>
-		<Score>0:0</Score>
+		<Score>25:20</Score>
 	</GameHistory>
 	<GameHistory>
 		<Court>4</Court>
