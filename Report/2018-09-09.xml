@@ -2302,7 +2302,7 @@
 		<Members>동우 용우 해군 허니</Members>
 		<Start>16:07:19</Start>
 		<Finish>16:17:07</Finish>
-		<Elapsed>9분 48초 </Elapsed>
+		<Elapsed>9분 48초</Elapsed>
 		<ElapsedSec>588</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -2312,7 +2312,7 @@
 		<Members>햇살 페더러 미니 트윈스</Members>
 		<Start>16:06:54</Start>
 		<Finish>16:17:21</Finish>
-		<Elapsed>10분 27초 </Elapsed>
+		<Elapsed>10분 27초</Elapsed>
 		<ElapsedSec>627</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -2322,7 +2322,7 @@
 		<Members>담덕 히오스 다비 라이언</Members>
 		<Start>16:12:46</Start>
 		<Finish>16:17:22</Finish>
-		<Elapsed>4분 36초 </Elapsed>
+		<Elapsed>4분 36초</Elapsed>
 		<ElapsedSec>276</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -2332,7 +2332,7 @@
 		<Members>종원-져스틴-에이스-차노</Members>
 		<Start>16:12:54</Start>
 		<Finish>16:17:23</Finish>
-		<Elapsed>4분 29초 </Elapsed>
+		<Elapsed>4분 29초</Elapsed>
 		<ElapsedSec>269</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -2342,7 +2342,7 @@
 		<Members>밤밤-다람지-디스-바비</Members>
 		<Start>16:17:08</Start>
 		<Finish>16:17:24</Finish>
-		<Elapsed>16초 </Elapsed>
+		<Elapsed>16초</Elapsed>
 		<ElapsedSec>16</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
