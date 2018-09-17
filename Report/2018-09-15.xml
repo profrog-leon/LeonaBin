@@ -3,6 +3,14 @@
 	<Date>2018-09-15</Date>
 	<RoundCount>6</RoundCount>
 	<Account>
+		<UID>25</UID>
+		<Time>20:42:00</Time>
+		<Name>로이</Name>
+		<Amount>0</Amount>
+		<Bill>50000</Bill>
+		<Tags>김밥찬조</Tags>
+	</Account>
+	<Account>
 		<UID>24</UID>
 		<Time>14:42:28</Time>
 		<Name>에스원</Name>
@@ -211,7 +219,7 @@
 	<Stock>
 		<Name>현금</Name>
 		<Stock>0</Stock>
-		<Current>226000</Current>
+		<Current>276000</Current>
 		<Tags></Tags>
 	</Stock>
 	<Stock>
@@ -262,7 +270,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>13:55:50</Enter>
 			<Played>6</Played>
-			<Variety>66.7%</Variety>
+			<Variety>80.0%</Variety>
 			<Paid>5000</Paid>
 			<Level>500</Level>
 			<Win>0</Win>
@@ -280,7 +288,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>13:58:50</Enter>
 			<Played>4</Played>
-			<Variety>72.7%</Variety>
+			<Variety>100.0%</Variety>
 			<Paid>46000</Paid>
 			<Level>0</Level>
 			<Win>0</Win>
@@ -298,7 +306,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>13:54:52</Enter>
 			<Played>5</Played>
-			<Variety>68.8%</Variety>
+			<Variety>78.6%</Variety>
 			<Paid>5000</Paid>
 			<Level>100</Level>
 			<Win>0</Win>
@@ -316,7 +324,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>14:16:08</Enter>
 			<Played>6</Played>
-			<Variety>66.7%</Variety>
+			<Variety>77.8%</Variety>
 			<Paid>5000</Paid>
 			<Level>400</Level>
 			<Win>0</Win>
@@ -334,7 +342,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>13:58:58</Enter>
 			<Played>6</Played>
-			<Variety>69.2%</Variety>
+			<Variety>90.0%</Variety>
 			<Paid>0</Paid>
 			<Level>150</Level>
 			<Win>0</Win>
@@ -352,7 +360,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>14:10:59</Enter>
 			<Played>5</Played>
-			<Variety>60.0%</Variety>
+			<Variety>70.6%</Variety>
 			<Paid>21000</Paid>
 			<Level>400</Level>
 			<Win>0</Win>
@@ -370,7 +378,7 @@
 			<EndTime>16:04:04</EndTime>
 			<Enter>14:14:32</Enter>
 			<Played>6</Played>
-			<Variety>58.8%</Variety>
+			<Variety>100.0%</Variety>
 			<Paid>0</Paid>
 			<Level>200</Level>
 			<Win>0</Win>
@@ -388,7 +396,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>13:56:29</Enter>
 			<Played>5</Played>
-			<Variety>72.7%</Variety>
+			<Variety>88.9%</Variety>
 			<Paid>16000</Paid>
 			<Level>0</Level>
 			<Win>0</Win>
@@ -406,7 +414,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>14:17:20</Enter>
 			<Played>5</Played>
-			<Variety>73.7%</Variety>
+			<Variety>87.5%</Variety>
 			<Paid>0</Paid>
 			<Level>400</Level>
 			<Win>0</Win>
@@ -424,8 +432,8 @@
 			<EndTime>16:15:34</EndTime>
 			<Enter>13:55:49</Enter>
 			<Played>6</Played>
-			<Variety>72.7%</Variety>
-			<Paid>41000</Paid>
+			<Variety>88.9%</Variety>
+			<Paid>91000</Paid>
 			<Level>650</Level>
 			<Win>0</Win>
 			<Lost>0</Lost>
@@ -478,7 +486,7 @@
 			<EndTime>15:44:43</EndTime>
 			<Enter>14:04:42</Enter>
 			<Played>5</Played>
-			<Variety>54.5%</Variety>
+			<Variety>66.7%</Variety>
 			<Paid>5000</Paid>
 			<Level>500</Level>
 			<Win>0</Win>
@@ -514,7 +522,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>14:10:57</Enter>
 			<Played>7</Played>
-			<Variety>70.6%</Variety>
+			<Variety>92.3%</Variety>
 			<Paid>5000</Paid>
 			<Level>600</Level>
 			<Win>0</Win>
@@ -532,7 +540,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>14:42:24</Enter>
 			<Played>5</Played>
-			<Variety>52.4%</Variety>
+			<Variety>73.3%</Variety>
 			<Paid>5000</Paid>
 			<Level>200</Level>
 			<Win>0</Win>
@@ -550,7 +558,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>13:56:52</Enter>
 			<Played>5</Played>
-			<Variety>77.8%</Variety>
+			<Variety>93.3%</Variety>
 			<Paid>0</Paid>
 			<Level>350</Level>
 			<Win>0</Win>
@@ -568,7 +576,7 @@
 			<EndTime>15:53:06</EndTime>
 			<Enter>13:56:29</Enter>
 			<Played>5</Played>
-			<Variety>52.9%</Variety>
+			<Variety>90.0%</Variety>
 			<Paid>0</Paid>
 			<Level>600</Level>
 			<Win>0</Win>
@@ -604,7 +612,7 @@
 			<EndTime>16:18:50</EndTime>
 			<Enter>14:18:52</Enter>
 			<Played>6</Played>
-			<Variety>57.9%</Variety>
+			<Variety>73.3%</Variety>
 			<Paid>0</Paid>
 			<Level>400</Level>
 			<Win>0</Win>
@@ -622,7 +630,7 @@
 			<EndTime>16:00:57</EndTime>
 			<Enter>13:55:00</Enter>
 			<Played>5</Played>
-			<Variety>63.2%</Variety>
+			<Variety>75.0%</Variety>
 			<Paid>5000</Paid>
 			<Level>400</Level>
 			<Win>0</Win>
@@ -640,7 +648,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>13:56:28</Enter>
 			<Played>5</Played>
-			<Variety>72.7%</Variety>
+			<Variety>88.9%</Variety>
 			<Paid>0</Paid>
 			<Level>0</Level>
 			<Win>0</Win>
@@ -658,7 +666,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>13:58:39</Enter>
 			<Played>5</Played>
-			<Variety>57.1%</Variety>
+			<Variety>70.6%</Variety>
 			<Paid>16000</Paid>
 			<Level>500</Level>
 			<Win>0</Win>
@@ -676,7 +684,7 @@
 			<EndTime>16:15:34</EndTime>
 			<Enter>13:54:52</Enter>
 			<Played>6</Played>
-			<Variety>80.0%</Variety>
+			<Variety>100.0%</Variety>
 			<Paid>5000</Paid>
 			<Level>700</Level>
 			<Win>0</Win>
@@ -694,7 +702,7 @@
 			<EndTime>16:18:50</EndTime>
 			<Enter>14:06:03</Enter>
 			<Played>6</Played>
-			<Variety>57.9%</Variety>
+			<Variety>73.3%</Variety>
 			<Paid>5000</Paid>
 			<Level>300</Level>
 			<Win>0</Win>
@@ -712,7 +720,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>14:41:53</Enter>
 			<Played>5</Played>
-			<Variety>63.2%</Variety>
+			<Variety>70.6%</Variety>
 			<Paid>5000</Paid>
 			<Level>400</Level>
 			<Win>0</Win>
@@ -730,7 +738,7 @@
 			<EndTime>16:18:50</EndTime>
 			<Enter>13:54:53</Enter>
 			<Played>6</Played>
-			<Variety>63.2%</Variety>
+			<Variety>85.7%</Variety>
 			<Paid>21000</Paid>
 			<Level>300</Level>
 			<Win>0</Win>
@@ -748,7 +756,7 @@
 			<EndTime>16:20:33</EndTime>
 			<Enter>14:17:20</Enter>
 			<Played>6</Played>
-			<Variety>61.9%</Variety>
+			<Variety>68.4%</Variety>
 			<Paid>0</Paid>
 			<Level>500</Level>
 			<Win>0</Win>
@@ -766,7 +774,7 @@
 			<EndTime>15:41:34</EndTime>
 			<Enter>13:54:53</Enter>
 			<Played>4</Played>
-			<Variety>64.7%</Variety>
+			<Variety>78.6%</Variety>
 			<Paid>5000</Paid>
 			<Level>400</Level>
 			<Win>0</Win>
@@ -784,7 +792,7 @@
 			<EndTime>16:04:04</EndTime>
 			<Enter>14:17:19</Enter>
 			<Played>5</Played>
-			<Variety>75.0%</Variety>
+			<Variety>90.0%</Variety>
 			<Paid>0</Paid>
 			<Level>150</Level>
 			<Win>0</Win>
@@ -1086,7 +1094,7 @@
 		<Members>히오스 노쓰 룩 냐하</Members>
 		<Start>15:36:40</Start>
 		<Finish>15:49:09</Finish>
-		<Elapsed>12분 29초 </Elapsed>
+		<Elapsed>12분 29초</Elapsed>
 		<ElapsedSec>749</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1096,7 +1104,7 @@
 		<Members>야크모 제로 로이 클릭</Members>
 		<Start>15:44:41</Start>
 		<Finish>15:53:06</Finish>
-		<Elapsed>8분 25초 </Elapsed>
+		<Elapsed>8분 25초</Elapsed>
 		<ElapsedSec>505</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1106,7 +1114,7 @@
 		<Members>초코 라이언 파리 에스원</Members>
 		<Start>15:42:09</Start>
 		<Finish>15:53:38</Finish>
-		<Elapsed>11분 29초 </Elapsed>
+		<Elapsed>11분 29초</Elapsed>
 		<ElapsedSec>689</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1116,7 +1124,7 @@
 		<Members>피기 사자 업 종원</Members>
 		<Start>15:44:43</Start>
 		<Finish>15:57:39</Finish>
-		<Elapsed>12분 56초 </Elapsed>
+		<Elapsed>12분 56초</Elapsed>
 		<ElapsedSec>776</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1126,7 +1134,7 @@
 		<Members>지성 용우 팔오 청평</Members>
 		<Start>15:49:13</Start>
 		<Finish>16:00:57</Finish>
-		<Elapsed>11분 44초 </Elapsed>
+		<Elapsed>11분 44초</Elapsed>
 		<ElapsedSec>704</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1136,7 +1144,7 @@
 		<Members>따당 트윈스 라이 히오스</Members>
 		<Start>15:53:09</Start>
 		<Finish>16:04:04</Finish>
-		<Elapsed>10분 55초 </Elapsed>
+		<Elapsed>10분 55초</Elapsed>
 		<ElapsedSec>655</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1146,7 +1154,7 @@
 		<Members>비니 레온 콕돌이 에스원</Members>
 		<Start>15:53:39</Start>
 		<Finish>16:05:46</Finish>
-		<Elapsed>12분 7초 </Elapsed>
+		<Elapsed>12분 7초</Elapsed>
 		<ElapsedSec>727</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1156,7 +1164,7 @@
 		<Members>깐돌이 드웨인 떡보 파리</Members>
 		<Start>15:57:39</Start>
 		<Finish>16:10:25</Finish>
-		<Elapsed>12분 46초 </Elapsed>
+		<Elapsed>12분 46초</Elapsed>
 		<ElapsedSec>766</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1166,7 +1174,7 @@
 		<Members>로이-클릭-업-종원</Members>
 		<Start>16:01:03</Start>
 		<Finish>16:15:34</Finish>
-		<Elapsed>14분 31초 </Elapsed>
+		<Elapsed>14분 31초</Elapsed>
 		<ElapsedSec>871</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1176,7 +1184,7 @@
 		<Members>룩-지성-팔오-트윈스</Members>
 		<Start>16:04:09</Start>
 		<Finish>16:18:50</Finish>
-		<Elapsed>14분 41초 </Elapsed>
+		<Elapsed>14분 41초</Elapsed>
 		<ElapsedSec>881</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1186,7 +1194,7 @@
 		<Members>라이언 초코 용우 떡보</Members>
 		<Start>16:10:26</Start>
 		<Finish>16:20:33</Finish>
-		<Elapsed>10분 7초 </Elapsed>
+		<Elapsed>10분 7초</Elapsed>
 		<ElapsedSec>607</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1196,7 +1204,7 @@
 		<Members>피기-깐돌이-파리-업</Members>
 		<Start>16:18:51</Start>
 		<Finish>16:20:33</Finish>
-		<Elapsed>1분 42초 </Elapsed>
+		<Elapsed>1분 42초</Elapsed>
 		<ElapsedSec>102</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1206,7 +1214,7 @@
 		<Members>따당-에스원 드웨인</Members>
 		<Start>16:15:38</Start>
 		<Finish>16:20:33</Finish>
-		<Elapsed>4분 55초 </Elapsed>
+		<Elapsed>4분 55초</Elapsed>
 		<ElapsedSec>295</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1216,7 +1224,7 @@
 		<Members>노쓰 콕돌이 냐하 레온</Members>
 		<Start>16:05:47</Start>
 		<Finish>16:20:33</Finish>
-		<Elapsed>14분 46초 </Elapsed>
+		<Elapsed>14분 46초</Elapsed>
 		<ElapsedSec>886</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
