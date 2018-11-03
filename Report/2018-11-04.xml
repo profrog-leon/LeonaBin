@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<root>
+	<Date>2018-11-04</Date>
+	<RoundCount>3</RoundCount>
+	<Account>
+		<UID>0</UID>
+		<Time>02:04:12</Time>
+		<Name>정훈</Name>
+		<Amount>0</Amount>
+		<Bill>15000</Bill>
+		<Tags>일일 입장료</Tags>
+	</Account>
+	<Stock>
+		<Name>콕재고</Name>
+		<Stock>55</Stock>
+		<Current>55</Current>
+		<Tags></Tags>
+	</Stock>
+	<Stock>
+		<Name>현금</Name>
+		<Stock>0</Stock>
+		<Current>15000</Current>
+		<Tags></Tags>
+	</Stock>
+	<Stock>
+		<Name>회원수</Name>
+		<Stock>0</Stock>
+		<Current>0</Current>
+		<Tags></Tags>
+	</Stock>
+	<Stock>
+		<Name>게임수</Name>
+		<Stock>0</Stock>
+		<Current>0</Current>
+		<Tags></Tags>
+	</Stock>
+	<Attend>
+	</Attend>
+	<Leave>
+	</Leave>
+	<Game>
+		<Members></Members>
+		<Title>회비면제자 : 베브 스톤 비니 우기</Title>
+	</Game>
+	<Game>
+		<Members>종원-은철-비니-제프</Members>
+		<Title>A그룹 1조 예선1경기</Title>
+	</Game>
+	<Game>
+		<Members>콕돌이-베브-야크모-우기</Members>
+		<Title>A그룹 2조 예선1경기</Title>
+	</Game>
+	<Game>
+		<Members>규석-초원이-라이-브라운</Members>
+		<Title>D그룹 1조 예선1경기</Title>
+	</Game>
+	<Game>
+		<Members>준영-히오스-따당-동우</Members>
+		<Title>D그룹 2조 예선1경기</Title>
+	</Game>
+	<Game>
+		<Members>업-제로-스톤-로이</Members>
+		<Title>B그룹 풀리그 결선1경기</Title>
+	</Game>
+	<Game>
+		<Members>비가-코난-바비-동균</Members>
+		<Title>B그룹 풀리그 결선2경기</Title>
+	</Game>
+	<Game>
+		<Members>포올-떡보-물곰-예리엘</Members>
+		<Title>C그룹 풀리그 결선1경기</Title>
+	</Game>
+	<Game>
+		<Members>엽이-청평-피기-레온</Members>
+		<Title>C그룹 풀리그 결선2경기</Title>
+	</Game>
+	<Game>
+		<Members>져스틴-현기-비니-제프</Members>
+		<Title>A그룹 1조 예선2경기</Title>
+	</Game>
+	<Game>
+		<Members>케이디-정훈-야크모-우기</Members>
+		<Title>A그룹 2조 예선2경기</Title>
+	</Game>
+	<Game>
+		<Members>용우-라이언-라이-브라운</Members>
+		<Title>D그룹 1조 예선2경기</Title>
+	</Game>
+	<Game>
+		<Members>사오-다비-따당-동우</Members>
+		<Title>D그룹 2조 예선2경기</Title>
+	</Game>
+	<Game>
+		<Members>업-제로-바비-동균</Members>
+		<Title>B그룹 풀리그 결선3경기</Title>
+	</Game>
+	<Game>
+		<Members>비가-코난-스톤-로이</Members>
+		<Title>B그룹 풀리그 결선4경기</Title>
+	</Game>
+	<Game>
+		<Members>포올-떡보-피기-레온</Members>
+		<Title>C그룹 풀리그 결선3경기</Title>
+	</Game>
+	<Game>
+		<Members>엽이-청평-물곰-예리엘</Members>
+		<Title>C그룹 풀리그 결선4경기</Title>
+	</Game>
+	<Game>
+		<Members>져스틴-현기-종원-은철</Members>
+		<Title>A그룹 1조 예선3경기</Title>
+	</Game>
+	<Game>
+		<Members>케이디-정훈-콕돌이-베브</Members>
+		<Title>A그룹 2조 예선3경기</Title>
+	</Game>
+	<Game>
+		<Members>용우-라이언-규석-초원이</Members>
+		<Title>D그룹 1조 예선3경기</Title>
+	</Game>
+	<Game>
+		<Members>사오-다비-준영-히오스</Members>
+		<Title>D그룹 2조 예선3경기</Title>
+	</Game>
+	<Game>
+		<Members>업-제로-비가-코난</Members>
+		<Title>B그룹 풀리그 결선5경기</Title>
+	</Game>
+	<Game>
+		<Members>바비-동균-스톤-로이</Members>
+		<Title>B그룹 풀리그 결선6경기</Title>
+	</Game>
+	<Game>
+		<Members>포올-떡보-엽이-청평</Members>
+		<Title>C그룹 풀리그 결선5경기</Title>
+	</Game>
+	<Game>
+		<Members>피기-레온-물곰-예리엘</Members>
+		<Title>C그룹 풀리그 결선6경기</Title>
+	</Game>
+	<Game>
+		<Members></Members>
+		<Title></Title>
+	</Game>
+	<Game>
+		<Members>져스틴-현기-케이디-정훈</Members>
+		<Title>A그룹 1조1위 : 2조1위 (1-2위전)</Title>
+	</Game>
+	<Game>
+		<Members>종원-은철-콕돌이-베브</Members>
+		<Title>A그룹 1조2위 : 2조2위 (3-4위전)</Title>
+	</Game>
+	<Game>
+		<Members>비니-제프-야크모-우기</Members>
+		<Title>A그룹 1조3위 : 2조3위 (5-6위전)</Title>
+	</Game>
+	<Game>
+		<Members>용우-라이언-사오-다비</Members>
+		<Title>D그룹 1조1위 : 2조1위 (1-2위전)</Title>
+	</Game>
+	<Game>
+		<Members>규석-초원이-준영-히오스</Members>
+		<Title>D그룹 1조2위 : 2조2위 (3-4위전)</Title>
+	</Game>
+	<Game>
+		<Members>라이-브라운-따당-동우</Members>
+		<Title>D그룹 1조3위 : 2조3위 (5-6위전)</Title>
+	</Game>
+	<Game>
+		<Members></Members>
+		<Title></Title>
+	</Game>
+	<Game>
+		<Members>업 스톤 비가 바비</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>로이 제로 동균 코난</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>포올 물곰 엽이 피기</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>예리엘 청평 레온 떡보</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>져스틴 종원 케이디 콕돌이</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>야크모 정훈 은철 비니</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>제프 우기 베브 현기</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>용우 규석 사오 준영</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>따당 브라운 라이 동우</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>초원이 라이언 히오스 다비</Members>
+		<Title>개인전1경기</Title>
+	</Game>
+	<Game>
+		<Members>바비 포올 우기 피기</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>코난 엽이 스톤 떡보</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>콕돌이 업 현기 제로</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>야크모 동균 은철 비가</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>물곰 레온 예리엘 용우</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>져스틴 제프 비니 정훈</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>청평 준영 사오 라이</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>케이디 로이 종원 베브</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>규석 동우 브라운 초원이</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>따당 다비 히오스 라이언</Members>
+		<Title>개인전2경기</Title>
+	</Game>
+	<Game>
+		<Members>스톤-피기-로이-예리엘</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>동균-떡보-코난-물곰</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>포올-용우-레온-청평</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>져스틴-콕돌이-케이디-야크모</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>종원-우기-은철-현기</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>제프-바비-베브-업</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>정훈-비가-비니-제로</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>엽이-라이-사오-따당</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>규석-다비-준영-초원이</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+	<Game>
+		<Members>브라운-라이언-동우-히오스</Members>
+		<Title>개인전3경기</Title>
+	</Game>
+</root>
