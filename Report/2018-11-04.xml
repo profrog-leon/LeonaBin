@@ -3,6 +3,22 @@
 	<Date>2018-11-04</Date>
 	<RoundCount>3</RoundCount>
 	<Account>
+		<UID>39</UID>
+		<Time>21:18:47</Time>
+		<Name>셔틀</Name>
+		<Amount>10</Amount>
+		<Bill>0</Bill>
+		<Tags>정기전 콕사용</Tags>
+	</Account>
+	<Account>
+		<UID>38</UID>
+		<Time>21:17:04</Time>
+		<Name>라이</Name>
+		<Amount>1</Amount>
+		<Bill>0</Bill>
+		<Tags>콕 판매(입금)</Tags>
+	</Account>
+	<Account>
 		<UID>37</UID>
 		<Time>16:21:50</Time>
 		<Name>정훈</Name>
@@ -308,8 +324,8 @@
 	</Account>
 	<Stock>
 		<Name>콕재고</Name>
-		<Stock>55</Stock>
-		<Current>55</Current>
+		<Stock>56</Stock>
+		<Current>45</Current>
 		<Tags></Tags>
 	</Stock>
 	<Stock>
@@ -1180,7 +1196,7 @@
 		<Title>A그룹 1조 예선2경기</Title>
 		<Start>13:00:55</Start>
 		<Finish>13:14:22</Finish>
-		<Elapsed>13분 27초 </Elapsed>
+		<Elapsed>13분 27초</Elapsed>
 		<ElapsedSec>807</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1190,7 +1206,7 @@
 		<Title>D그룹 1조 예선2경기</Title>
 		<Start>13:02:13</Start>
 		<Finish>13:16:28</Finish>
-		<Elapsed>14분 15초 </Elapsed>
+		<Elapsed>14분 15초</Elapsed>
 		<ElapsedSec>855</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1200,7 +1216,7 @@
 		<Title>D그룹 2조 예선2경기</Title>
 		<Start>13:02:42</Start>
 		<Finish>13:18:09</Finish>
-		<Elapsed>15분 27초 </Elapsed>
+		<Elapsed>15분 27초</Elapsed>
 		<ElapsedSec>927</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1210,7 +1226,7 @@
 		<Title>A그룹 2조 예선2경기</Title>
 		<Start>13:01:02</Start>
 		<Finish>13:18:49</Finish>
-		<Elapsed>17분 47초 </Elapsed>
+		<Elapsed>17분 47초</Elapsed>
 		<ElapsedSec>1067</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1220,7 +1236,7 @@
 		<Title>B그룹 풀리그 결선3경기</Title>
 		<Start>13:14:23</Start>
 		<Finish>13:26:18</Finish>
-		<Elapsed>11분 55초 </Elapsed>
+		<Elapsed>11분 55초</Elapsed>
 		<ElapsedSec>715</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1230,7 +1246,7 @@
 		<Title>B그룹 풀리그 결선4경기</Title>
 		<Start>13:16:31</Start>
 		<Finish>13:31:27</Finish>
-		<Elapsed>14분 56초 </Elapsed>
+		<Elapsed>14분 56초</Elapsed>
 		<ElapsedSec>896</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1240,7 +1256,7 @@
 		<Title>C그룹 풀리그 결선3경기</Title>
 		<Start>13:18:10</Start>
 		<Finish>13:33:31</Finish>
-		<Elapsed>15분 21초 </Elapsed>
+		<Elapsed>15분 21초</Elapsed>
 		<ElapsedSec>921</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1250,7 +1266,7 @@
 		<Title>C그룹 풀리그 결선4경기</Title>
 		<Start>13:18:50</Start>
 		<Finish>13:35:41</Finish>
-		<Elapsed>16분 51초 </Elapsed>
+		<Elapsed>16분 51초</Elapsed>
 		<ElapsedSec>1011</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1260,7 +1276,7 @@
 		<Title>A그룹 1조 예선3경기</Title>
 		<Start>13:26:19</Start>
 		<Finish>13:42:39</Finish>
-		<Elapsed>16분 20초 </Elapsed>
+		<Elapsed>16분 20초</Elapsed>
 		<ElapsedSec>980</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1270,7 +1286,7 @@
 		<Title>D그룹 1조 예선3경기</Title>
 		<Start>13:33:31</Start>
 		<Finish>13:44:52</Finish>
-		<Elapsed>11분 21초 </Elapsed>
+		<Elapsed>11분 21초</Elapsed>
 		<ElapsedSec>681</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1280,7 +1296,7 @@
 		<Title>A그룹 2조 예선3경기</Title>
 		<Start>13:31:28</Start>
 		<Finish>13:45:54</Finish>
-		<Elapsed>14분 26초 </Elapsed>
+		<Elapsed>14분 26초</Elapsed>
 		<ElapsedSec>866</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1290,7 +1306,7 @@
 		<Title>D그룹 2조 예선3경기</Title>
 		<Start>13:35:42</Start>
 		<Finish>13:48:22</Finish>
-		<Elapsed>12분 40초 </Elapsed>
+		<Elapsed>12분 40초</Elapsed>
 		<ElapsedSec>760</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1300,7 +1316,7 @@
 		<Title>B그룹 풀리그 결선5경기</Title>
 		<Start>13:42:39</Start>
 		<Finish>13:56:47</Finish>
-		<Elapsed>14분 8초 </Elapsed>
+		<Elapsed>14분 8초</Elapsed>
 		<ElapsedSec>848</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1310,7 +1326,7 @@
 		<Title>C그룹 풀리그 결선5경기</Title>
 		<Start>13:45:55</Start>
 		<Finish>13:58:17</Finish>
-		<Elapsed>12분 22초 </Elapsed>
+		<Elapsed>12분 22초</Elapsed>
 		<ElapsedSec>742</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1320,7 +1336,7 @@
 		<Title>B그룹 풀리그 결선6경기</Title>
 		<Start>13:44:52</Start>
 		<Finish>14:00:50</Finish>
-		<Elapsed>15분 58초 </Elapsed>
+		<Elapsed>15분 58초</Elapsed>
 		<ElapsedSec>958</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1330,7 +1346,7 @@
 		<Title>C그룹 풀리그 결선6경기</Title>
 		<Start>13:48:22</Start>
 		<Finish>14:03:11</Finish>
-		<Elapsed>14분 49초 </Elapsed>
+		<Elapsed>14분 49초</Elapsed>
 		<ElapsedSec>889</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1340,7 +1356,7 @@
 		<Title>D그룹 1조2위 : 2조2위 (3-4위전)</Title>
 		<Start>13:58:17</Start>
 		<Finish>14:10:46</Finish>
-		<Elapsed>12분 29초 </Elapsed>
+		<Elapsed>12분 29초</Elapsed>
 		<ElapsedSec>749</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1350,7 +1366,7 @@
 		<Title>D그룹 1조1위 : 2조1위 (1-2위전)</Title>
 		<Start>13:57:02</Start>
 		<Finish>14:12:21</Finish>
-		<Elapsed>15분 19초 </Elapsed>
+		<Elapsed>15분 19초</Elapsed>
 		<ElapsedSec>919</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1360,7 +1376,7 @@
 		<Title>D그룹 1조3위 : 2조3위 (5-6위전)</Title>
 		<Start>14:00:51</Start>
 		<Finish>14:13:46</Finish>
-		<Elapsed>12분 55초 </Elapsed>
+		<Elapsed>12분 55초</Elapsed>
 		<ElapsedSec>775</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1370,7 +1386,7 @@
 		<Title>A그룹 1조1위 : 2조1위 (1-2위전)</Title>
 		<Start>14:03:11</Start>
 		<Finish>14:16:57</Finish>
-		<Elapsed>13분 46초 </Elapsed>
+		<Elapsed>13분 46초</Elapsed>
 		<ElapsedSec>826</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1380,7 +1396,7 @@
 		<Title>A그룹 1조3위 : 2조3위 (5-6위전)</Title>
 		<Start>14:10:46</Start>
 		<Finish>14:23:37</Finish>
-		<Elapsed>12분 51초 </Elapsed>
+		<Elapsed>12분 51초</Elapsed>
 		<ElapsedSec>771</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1390,7 +1406,7 @@
 		<Title>A그룹 1조2위 : 2조2위 (3-4위전)</Title>
 		<Start>14:12:21</Start>
 		<Finish>14:28:24</Finish>
-		<Elapsed>16분 3초 </Elapsed>
+		<Elapsed>16분 3초</Elapsed>
 		<ElapsedSec>963</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>

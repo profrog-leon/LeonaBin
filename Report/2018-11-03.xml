@@ -51,14 +51,6 @@
 		<Tags>아저씨 식대</Tags>
 	</Account>
 	<Account>
-		<UID>27</UID>
-		<Time>18:11:57</Time>
-		<Name>라이</Name>
-		<Amount>1</Amount>
-		<Bill>0</Bill>
-		<Tags>콕 판매(16000원 외상)</Tags>
-	</Account>
-	<Account>
 		<UID>26</UID>
 		<Time>18:11:52</Time>
 		<Name>둘리</Name>
