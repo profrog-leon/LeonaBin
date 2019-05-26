@@ -349,63 +349,78 @@
 	<Stock>
 		<Name>전체 운용한 게임 수</Name>
 		<Stock>0</Stock>
-		<Current>64</Current>
+		<Current>68</Current>
 		<Tags></Tags>
 	</Stock>
+	<Waiting>구리</Waiting>
+	<Waiting>그레이</Waiting>
+	<Waiting>까치</Waiting>
+	<Waiting>대니</Waiting>
+	<Waiting>도우</Waiting>
+	<Waiting>동우</Waiting>
+	<Waiting>따당</Waiting>
+	<Waiting>라봉</Waiting>
+	<Waiting>물곰</Waiting>
+	<Waiting>브라운</Waiting>
+	<Waiting>사오</Waiting>
+	<Waiting>스톤</Waiting>
+	<Waiting>우기</Waiting>
+	<Waiting>이오</Waiting>
+	<Waiting>정훈</Waiting>
+	<Waiting>제프</Waiting>
+	<Waiting>져스틴</Waiting>
+	<Waiting>트윈스</Waiting>
+	<Waiting>포올</Waiting>
+	<Waiting>현기</Waiting>
+	<Waiting>황하</Waiting>
 	<Attend>
 		<구리>
 			<Name>구리</Name>
-			<EndTime>16:02:32</EndTime>
+			<EndTime>16:14:39</EndTime>
 			<Enter>11:59:10</Enter>
 			<Played>8</Played>
 			<Variety>58.3%</Variety>
 			<Paid>0</Paid>
-			<Point>534.357143</Point>
+			<Point>508</Point>
 			<Win>3</Win>
 			<Lost>1</Lost>
-			<Draw>0</Draw>
-			<Score>94</Score>
-			<LostScore>94</LostScore>
-			<PlaySec>5342</PlaySec>
-			<PlayTime>1시간 29분 2초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>6025</PlaySec>
+			<PlayTime>1시간 40분 25초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>500</Level>
 		</구리>
 		<그레이>
 			<Name>그레이</Name>
-			<EndTime>16:00:02</EndTime>
+			<EndTime>16:13:57</EndTime>
 			<Enter>12:37:14</Enter>
 			<Played>8</Played>
 			<Variety>45.8%</Variety>
 			<Paid>0</Paid>
-			<Point>752.264286</Point>
+			<Point>707</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
-			<Draw>0</Draw>
-			<Score>96</Score>
-			<LostScore>84</LostScore>
-			<PlaySec>4968</PlaySec>
-			<PlayTime>1시간 22분 48초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>5801</PlaySec>
+			<PlayTime>1시간 36분 41초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>700</Level>
 		</그레이>
 		<까치>
 			<Name>까치</Name>
-			<EndTime>15:59:04</EndTime>
+			<EndTime>16:13:57</EndTime>
 			<Enter>11:46:42</Enter>
 			<Played>9</Played>
 			<Variety>63.0%</Variety>
 			<Paid>21000</Paid>
-			<Point>743.064935</Point>
+			<Point>704</Point>
 			<Win>1</Win>
 			<Lost>3</Lost>
-			<Draw>0</Draw>
-			<Score>72</Score>
-			<LostScore>95</LostScore>
-			<PlaySec>6076</PlaySec>
-			<PlayTime>1시간 41분 16초 </PlayTime>
+			<Draw>5</Draw>
+			<PlaySec>6909</PlaySec>
+			<PlayTime>1시간 55분 9초 </PlayTime>
 			<Tags></Tags>
 			<Sd>1</Sd>
 			<Level>700</Level>
@@ -414,15 +429,13 @@
 			<Name>대니</Name>
 			<EndTime>15:57:27</EndTime>
 			<Enter>12:35:22</Enter>
-			<Played>8</Played>
+			<Played>7</Played>
 			<Variety>47.8%</Variety>
 			<Paid>5000</Paid>
-			<Point>355.000000</Point>
+			<Point>354</Point>
 			<Win>1</Win>
 			<Lost>3</Lost>
-			<Draw>0</Draw>
-			<Score>75</Score>
-			<LostScore>89</LostScore>
+			<Draw>3</Draw>
 			<PlaySec>5020</PlaySec>
 			<PlayTime>1시간 23분 40초 </PlayTime>
 			<Tags></Tags>
@@ -431,36 +444,32 @@
 		</대니>
 		<도우>
 			<Name>도우</Name>
-			<EndTime>15:48:43</EndTime>
+			<EndTime>16:13:57</EndTime>
 			<Enter>11:35:37</Enter>
 			<Played>8</Played>
 			<Variety>59.1%</Variety>
 			<Paid>5000</Paid>
-			<Point>855.500000</Point>
+			<Point>857</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
-			<Draw>0</Draw>
-			<Score>92</Score>
-			<LostScore>89</LostScore>
-			<PlaySec>5381</PlaySec>
-			<PlayTime>1시간 29분 41초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>6214</PlaySec>
+			<PlayTime>1시간 43분 34초 </PlayTime>
 			<Tags></Tags>
 			<Sd>4</Sd>
 			<Level>850</Level>
 		</도우>
 		<동우>
 			<Name>동우</Name>
-			<EndTime>16:11:37</EndTime>
+			<EndTime>16:14:41</EndTime>
 			<Enter>11:36:33</Enter>
 			<Played>8</Played>
-			<Variety>66.7%</Variety>
+			<Variety>68.4%</Variety>
 			<Paid>5000</Paid>
-			<Point>240.747619</Point>
+			<Point>200</Point>
 			<Win>0</Win>
 			<Lost>4</Lost>
-			<Draw>0</Draw>
-			<Score>61</Score>
-			<LostScore>100</LostScore>
+			<Draw>3</Draw>
 			<PlaySec>5642</PlaySec>
 			<PlayTime>1시간 34분 2초 </PlayTime>
 			<Tags></Tags>
@@ -469,17 +478,15 @@
 		</동우>
 		<따당>
 			<Name>따당</Name>
-			<EndTime>16:02:32</EndTime>
+			<EndTime>16:14:41</EndTime>
 			<Enter>11:33:12</Enter>
 			<Played>9</Played>
-			<Variety>57.7%</Variety>
+			<Variety>59.3%</Variety>
 			<Paid>0</Paid>
-			<Point>414.571429</Point>
+			<Point>404</Point>
 			<Win>1</Win>
 			<Lost>3</Lost>
-			<Draw>0</Draw>
-			<Score>83</Score>
-			<LostScore>87</LostScore>
+			<Draw>4</Draw>
 			<PlaySec>5939</PlaySec>
 			<PlayTime>1시간 38분 59초 </PlayTime>
 			<Tags></Tags>
@@ -488,188 +495,168 @@
 		</따당>
 		<라봉>
 			<Name>라봉</Name>
-			<EndTime>16:02:32</EndTime>
+			<EndTime>16:14:39</EndTime>
 			<Enter>11:41:38</Enter>
 			<Played>9</Played>
 			<Variety>63.6%</Variety>
 			<Paid>0</Paid>
-			<Point>909.500000</Point>
+			<Point>908</Point>
 			<Win>4</Win>
 			<Lost>0</Lost>
-			<Draw>0</Draw>
-			<Score>100</Score>
-			<LostScore>66</LostScore>
-			<PlaySec>5942</PlaySec>
-			<PlayTime>1시간 39분 2초 </PlayTime>
+			<Draw>5</Draw>
+			<PlaySec>6625</PlaySec>
+			<PlayTime>1시간 50분 25초 </PlayTime>
 			<Tags></Tags>
 			<Sd>5</Sd>
 			<Level>900</Level>
 		</라봉>
 		<물곰>
 			<Name>물곰</Name>
-			<EndTime>15:59:04</EndTime>
+			<EndTime>16:14:38</EndTime>
 			<Enter>13:38:05</Enter>
 			<Played>7</Played>
 			<Variety>64.3%</Variety>
 			<Paid>5000</Paid>
-			<Point>530.347619</Point>
+			<Point>508</Point>
 			<Win>4</Win>
 			<Lost>0</Lost>
-			<Draw>0</Draw>
-			<Score>104</Score>
-			<LostScore>85</LostScore>
-			<PlaySec>4928</PlaySec>
-			<PlayTime>1시간 22분 8초 </PlayTime>
+			<Draw>3</Draw>
+			<PlaySec>5109</PlaySec>
+			<PlayTime>1시간 25분 9초 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>500</Level>
 		</물곰>
 		<브라운>
 			<Name>브라운</Name>
-			<EndTime>16:11:37</EndTime>
+			<EndTime>16:14:38</EndTime>
 			<Enter>11:34:48</Enter>
 			<Played>8</Played>
 			<Variety>64.7%</Variety>
 			<Paid>5000</Paid>
-			<Point>250.137229</Point>
+			<Point>207</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
-			<Draw>0</Draw>
-			<Score>87</Score>
-			<LostScore>76</LostScore>
-			<PlaySec>5534</PlaySec>
-			<PlayTime>1시간 32분 14초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>5715</PlaySec>
+			<PlayTime>1시간 35분 15초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>200</Level>
 		</브라운>
 		<사오>
 			<Name>사오</Name>
-			<EndTime>16:11:37</EndTime>
+			<EndTime>16:14:38</EndTime>
 			<Enter>11:55:23</Enter>
 			<Played>8</Played>
 			<Variety>60.0%</Variety>
 			<Paid>5000</Paid>
-			<Point>429.810714</Point>
+			<Point>407</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
-			<Draw>0</Draw>
-			<Score>82</Score>
-			<LostScore>91</LostScore>
-			<PlaySec>5497</PlaySec>
-			<PlayTime>1시간 31분 37초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>5678</PlaySec>
+			<PlayTime>1시간 34분 38초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>400</Level>
 		</사오>
 		<우기>
 			<Name>우기</Name>
-			<EndTime>15:47:44</EndTime>
+			<EndTime>16:14:39</EndTime>
 			<Enter>13:07:27</Enter>
 			<Played>7</Played>
 			<Variety>61.9%</Variety>
 			<Paid>5000</Paid>
-			<Point>864.750000</Point>
+			<Point>854</Point>
 			<Win>1</Win>
 			<Lost>3</Lost>
-			<Draw>0</Draw>
-			<Score>72</Score>
-			<LostScore>94</LostScore>
-			<PlaySec>4362</PlaySec>
-			<PlayTime>1시간 12분 42초 </PlayTime>
+			<Draw>3</Draw>
+			<PlaySec>5045</PlaySec>
+			<PlayTime>1시간 24분 5초 </PlayTime>
 			<Tags></Tags>
 			<Sd>1</Sd>
 			<Level>850</Level>
 		</우기>
 		<이오>
 			<Name>이오</Name>
-			<EndTime>16:11:37</EndTime>
+			<EndTime>16:14:38</EndTime>
 			<Enter>12:15:22</Enter>
 			<Played>9</Played>
 			<Variety>58.8%</Variety>
 			<Paid>0</Paid>
-			<Point>221.200000</Point>
+			<Point>207</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
-			<Draw>0</Draw>
-			<Score>80</Score>
-			<LostScore>83</LostScore>
-			<PlaySec>6382</PlaySec>
-			<PlayTime>1시간 46분 22초 </PlayTime>
+			<Draw>5</Draw>
+			<PlaySec>6563</PlaySec>
+			<PlayTime>1시간 49분 23초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>200</Level>
 		</이오>
 		<정훈>
 			<Name>정훈</Name>
-			<EndTime>16:00:02</EndTime>
+			<EndTime>16:14:38</EndTime>
 			<Enter>11:37:03</Enter>
 			<Played>9</Played>
 			<Variety>73.9%</Variety>
 			<Paid>0</Paid>
-			<Point>899.944156</Point>
+			<Point>860</Point>
 			<Win>3</Win>
 			<Lost>2</Lost>
-			<Draw>0</Draw>
-			<Score>117</Score>
-			<LostScore>96</LostScore>
-			<PlaySec>5069</PlaySec>
-			<PlayTime>1시간 24분 29초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>5875</PlaySec>
+			<PlayTime>1시간 37분 55초 </PlayTime>
 			<Tags></Tags>
 			<Sd>4</Sd>
 			<Level>850</Level>
 		</정훈>
 		<제프>
 			<Name>제프</Name>
-			<EndTime>15:47:44</EndTime>
+			<EndTime>16:14:39</EndTime>
 			<Enter>12:02:15</Enter>
 			<Played>8</Played>
 			<Variety>57.1%</Variety>
 			<Paid>0</Paid>
-			<Point>893.530220</Point>
+			<Point>857</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
-			<Draw>0</Draw>
-			<Score>81</Score>
-			<LostScore>92</LostScore>
-			<PlaySec>5157</PlaySec>
-			<PlayTime>1시간 25분 57초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>5840</PlaySec>
+			<PlayTime>1시간 37분 20초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>850</Level>
 		</제프>
 		<져스틴>
 			<Name>져스틴</Name>
-			<EndTime>15:47:44</EndTime>
+			<EndTime>16:14:38</EndTime>
 			<Enter>11:45:24</Enter>
 			<Played>8</Played>
 			<Variety>60.9%</Variety>
 			<Paid>5000</Paid>
-			<Point>1006.989927</Point>
+			<Point>958</Point>
 			<Win>3</Win>
 			<Lost>1</Lost>
-			<Draw>0</Draw>
-			<Score>96</Score>
-			<LostScore>77</LostScore>
-			<PlaySec>5784</PlaySec>
-			<PlayTime>1시간 36분 24초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>6590</PlaySec>
+			<PlayTime>1시간 49분 50초 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>950</Level>
 		</져스틴>
 		<트윈스>
 			<Name>트윈스</Name>
-			<EndTime>15:59:04</EndTime>
+			<EndTime>16:14:41</EndTime>
 			<Enter>11:57:40</Enter>
 			<Played>10</Played>
 			<Variety>66.7%</Variety>
 			<Paid>21000</Paid>
-			<Point>466.900733</Point>
+			<Point>410</Point>
 			<Win>4</Win>
 			<Lost>1</Lost>
-			<Draw>0</Draw>
-			<Score>119</Score>
-			<LostScore>100</LostScore>
+			<Draw>4</Draw>
 			<PlaySec>6685</PlaySec>
 			<PlayTime>1시간 51분 25초 </PlayTime>
 			<Tags></Tags>
@@ -678,57 +665,51 @@
 		</트윈스>
 		<포올>
 			<Name>포올</Name>
-			<EndTime>15:59:04</EndTime>
+			<EndTime>16:14:38</EndTime>
 			<Enter>11:46:42</Enter>
 			<Played>8</Played>
 			<Variety>54.2%</Variety>
 			<Paid>21000</Paid>
-			<Point>700.000000</Point>
+			<Point>700</Point>
 			<Win>0</Win>
 			<Lost>4</Lost>
-			<Draw>0</Draw>
-			<Score>93</Score>
-			<LostScore>100</LostScore>
-			<PlaySec>5492</PlaySec>
-			<PlayTime>1시간 31분 32초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>6298</PlaySec>
+			<PlayTime>1시간 44분 58초 </PlayTime>
 			<Tags></Tags>
 			<Sd>5</Sd>
 			<Level>700</Level>
 		</포올>
 		<현기>
 			<Name>현기</Name>
-			<EndTime>15:48:43</EndTime>
+			<EndTime>16:13:57</EndTime>
 			<Enter>12:19:54</Enter>
 			<Played>9</Played>
 			<Variety>68.2%</Variety>
 			<Paid>0</Paid>
-			<Point>872.181818</Point>
+			<Point>854</Point>
 			<Win>1</Win>
 			<Lost>3</Lost>
-			<Draw>0</Draw>
-			<Score>74</Score>
-			<LostScore>98</LostScore>
-			<PlaySec>6098</PlaySec>
-			<PlayTime>1시간 41분 38초 </PlayTime>
+			<Draw>5</Draw>
+			<PlaySec>6931</PlaySec>
+			<PlayTime>1시간 55분 31초 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>850</Level>
 		</현기>
 		<황하>
 			<Name>황하</Name>
-			<EndTime>16:00:02</EndTime>
+			<EndTime>16:14:38</EndTime>
 			<Enter>11:35:19</Enter>
 			<Played>8</Played>
 			<Variety>60.9%</Variety>
 			<Paid>5000</Paid>
-			<Point>708.500000</Point>
+			<Point>708</Point>
 			<Win>3</Win>
 			<Lost>1</Lost>
-			<Draw>0</Draw>
-			<Score>92</Score>
-			<LostScore>87</LostScore>
-			<PlaySec>4715</PlaySec>
-			<PlayTime>1시간 18분 35초 </PlayTime>
+			<Draw>4</Draw>
+			<PlaySec>5521</PlaySec>
+			<PlayTime>1시간 32분 1초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>700</Level>
@@ -742,14 +723,12 @@
 			<Played>5</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>119.142857</Point>
+			<Point>119</Point>
 			<Win>0</Win>
 			<Lost>3</Lost>
 			<Draw>0</Draw>
-			<Score>62</Score>
-			<LostScore>75</LostScore>
 			<PlaySec>3006</PlaySec>
-			<PlayTime>50분 6초 </PlayTime>
+			<PlayTime>50분 6초</PlayTime>
 			<Tags></Tags>
 			<Sd>4</Sd>
 			<Level>100</Level>
@@ -762,14 +741,12 @@
 			<Played>6</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>407.000000</Point>
+			<Point>407</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
 			<Draw>0</Draw>
-			<Score>87</Score>
-			<LostScore>78</LostScore>
 			<PlaySec>4457</PlaySec>
-			<PlayTime>1시간 14분 17초 </PlayTime>
+			<PlayTime>1시간 14분 17초</PlayTime>
 			<Tags></Tags>
 			<Sd>6</Sd>
 			<Level>400</Level>
@@ -782,14 +759,12 @@
 			<Played>4</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>726.600000</Point>
+			<Point>726</Point>
 			<Win>1</Win>
 			<Lost>1</Lost>
 			<Draw>0</Draw>
-			<Score>52</Score>
-			<LostScore>43</LostScore>
 			<PlaySec>2666</PlaySec>
-			<PlayTime>44분 26초 </PlayTime>
+			<PlayTime>44분 26초</PlayTime>
 			<Tags></Tags>
 			<Sd>1</Sd>
 			<Level>700</Level>
@@ -802,14 +777,12 @@
 			<Played>4</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>807.500000</Point>
+			<Point>807</Point>
 			<Win>3</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
-			<Score>75</Score>
-			<LostScore>66</LostScore>
 			<PlaySec>3336</PlaySec>
-			<PlayTime>55분 36초 </PlayTime>
+			<PlayTime>55분 36초</PlayTime>
 			<Tags></Tags>
 			<Sd>3</Sd>
 			<Level>800</Level>
@@ -822,14 +795,12 @@
 			<Played>7</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>533.800000</Point>
+			<Point>533</Point>
 			<Win>1</Win>
 			<Lost>4</Lost>
 			<Draw>0</Draw>
-			<Score>103</Score>
-			<LostScore>123</LostScore>
 			<PlaySec>5341</PlaySec>
-			<PlayTime>1시간 29분 1초 </PlayTime>
+			<PlayTime>1시간 29분 1초</PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>500</Level>
@@ -842,14 +813,12 @@
 			<Played>3</Played>
 			<Variety>NA</Variety>
 			<Paid>21000</Paid>
-			<Point>433.400000</Point>
+			<Point>433</Point>
 			<Win>1</Win>
 			<Lost>1</Lost>
 			<Draw>0</Draw>
-			<Score>43</Score>
-			<LostScore>42</LostScore>
 			<PlaySec>2219</PlaySec>
-			<PlayTime>36분 59초 </PlayTime>
+			<PlayTime>36분 59초</PlayTime>
 			<Tags></Tags>
 			<Sd>1</Sd>
 			<Level>400</Level>
@@ -862,14 +831,12 @@
 			<Played>5</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>408.500000</Point>
+			<Point>408</Point>
 			<Win>3</Win>
 			<Lost>1</Lost>
 			<Draw>0</Draw>
-			<Score>87</Score>
-			<LostScore>82</LostScore>
 			<PlaySec>3688</PlaySec>
-			<PlayTime>1시간 1분 28초 </PlayTime>
+			<PlayTime>1시간 1분 28초</PlayTime>
 			<Tags></Tags>
 			<Sd>3</Sd>
 			<Level>400</Level>
@@ -882,14 +849,12 @@
 			<Played>6</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>38.510714</Point>
+			<Point>38</Point>
 			<Win>4</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
-			<Score>100</Score>
-			<LostScore>80</LostScore>
 			<PlaySec>4425</PlaySec>
-			<PlayTime>1시간 13분 45초 </PlayTime>
+			<PlayTime>1시간 13분 45초</PlayTime>
 			<Tags></Tags>
 			<Sd>4</Sd>
 			<Level>0</Level>
@@ -902,14 +867,12 @@
 			<Played>6</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>957.500000</Point>
+			<Point>957</Point>
 			<Win>3</Win>
 			<Lost>1</Lost>
 			<Draw>0</Draw>
-			<Score>89</Score>
-			<LostScore>81</LostScore>
 			<PlaySec>3881</PlaySec>
-			<PlayTime>1시간 4분 41초 </PlayTime>
+			<PlayTime>1시간 4분 41초</PlayTime>
 			<Tags></Tags>
 			<Sd>1</Sd>
 			<Level>950</Level>
@@ -922,14 +885,12 @@
 			<Played>7</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>738.510714</Point>
+			<Point>738</Point>
 			<Win>4</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
-			<Score>100</Score>
-			<LostScore>69</LostScore>
 			<PlaySec>4783</PlaySec>
-			<PlayTime>1시간 19분 43초 </PlayTime>
+			<PlayTime>1시간 19분 43초</PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>700</Level>
@@ -942,14 +903,12 @@
 			<Played>6</Played>
 			<Variety>NA</Variety>
 			<Paid>16000</Paid>
-			<Point>926.314286</Point>
+			<Point>926</Point>
 			<Win>1</Win>
 			<Lost>3</Lost>
 			<Draw>0</Draw>
-			<Score>87</Score>
-			<LostScore>91</LostScore>
 			<PlaySec>5052</PlaySec>
-			<PlayTime>1시간 24분 12초 </PlayTime>
+			<PlayTime>1시간 24분 12초</PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>900</Level>
@@ -962,14 +921,12 @@
 			<Played>6</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>861.806693</Point>
+			<Point>861</Point>
 			<Win>1</Win>
 			<Lost>3</Lost>
 			<Draw>0</Draw>
-			<Score>77</Score>
-			<LostScore>86</LostScore>
 			<PlaySec>4229</PlaySec>
-			<PlayTime>1시간 10분 29초 </PlayTime>
+			<PlayTime>1시간 10분 29초</PlayTime>
 			<Tags></Tags>
 			<Sd>3</Sd>
 			<Level>800</Level>
@@ -982,14 +939,12 @@
 			<Played>8</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>556.321429</Point>
+			<Point>556</Point>
 			<Win>2</Win>
 			<Lost>3</Lost>
 			<Draw>0</Draw>
-			<Score>119</Score>
-			<LostScore>112</LostScore>
 			<PlaySec>6021</PlaySec>
-			<PlayTime>1시간 40분 21초 </PlayTime>
+			<PlayTime>1시간 40분 21초</PlayTime>
 			<Tags></Tags>
 			<Sd>3</Sd>
 			<Level>500</Level>
@@ -1002,14 +957,12 @@
 			<Played>4</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>979.814286</Point>
+			<Point>979</Point>
 			<Win>1</Win>
 			<Lost>3</Lost>
 			<Draw>0</Draw>
-			<Score>74</Score>
-			<LostScore>96</LostScore>
 			<PlaySec>2999</PlaySec>
-			<PlayTime>49분 59초 </PlayTime>
+			<PlayTime>49분 59초</PlayTime>
 			<Tags></Tags>
 			<Sd>4</Sd>
 			<Level>950</Level>
@@ -1022,14 +975,12 @@
 			<Played>4</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>855.500000</Point>
+			<Point>855</Point>
 			<Win>2</Win>
 			<Lost>1</Lost>
 			<Draw>0</Draw>
-			<Score>70</Score>
-			<LostScore>60</LostScore>
 			<PlaySec>3376</PlaySec>
-			<PlayTime>56분 16초 </PlayTime>
+			<PlayTime>56분 16초</PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>850</Level>
@@ -1042,14 +993,12 @@
 			<Played>5</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>730.214286</Point>
+			<Point>730</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
 			<Draw>0</Draw>
-			<Score>88</Score>
-			<LostScore>100</LostScore>
 			<PlaySec>4321</PlaySec>
-			<PlayTime>1시간 12분 1초 </PlayTime>
+			<PlayTime>1시간 12분 1초</PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>700</Level>
@@ -1062,14 +1011,12 @@
 			<Played>7</Played>
 			<Variety>NA</Variety>
 			<Paid>5000</Paid>
-			<Point>937.233333</Point>
+			<Point>937</Point>
 			<Win>2</Win>
 			<Lost>2</Lost>
 			<Draw>0</Draw>
-			<Score>89</Score>
-			<LostScore>94</LostScore>
 			<PlaySec>5962</PlaySec>
-			<PlayTime>1시간 39분 22초 </PlayTime>
+			<PlayTime>1시간 39분 22초</PlayTime>
 			<Tags></Tags>
 			<Sd>1</Sd>
 			<Level>900</Level>
@@ -1082,14 +1029,12 @@
 			<Played>7</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>300.000000</Point>
+			<Point>300</Point>
 			<Win>0</Win>
 			<Lost>4</Lost>
 			<Draw>0</Draw>
-			<Score>63</Score>
-			<LostScore>100</LostScore>
 			<PlaySec>5233</PlaySec>
-			<PlayTime>1시간 27분 13초 </PlayTime>
+			<PlayTime>1시간 27분 13초</PlayTime>
 			<Tags></Tags>
 			<Sd>1</Sd>
 			<Level>300</Level>
@@ -1102,14 +1047,12 @@
 			<Played>4</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>730.400000</Point>
+			<Point>730</Point>
 			<Win>0</Win>
 			<Lost>2</Lost>
 			<Draw>0</Draw>
-			<Score>47</Score>
-			<LostScore>54</LostScore>
 			<PlaySec>3457</PlaySec>
-			<PlayTime>57분 37초 </PlayTime>
+			<PlayTime>57분 37초</PlayTime>
 			<Tags></Tags>
 			<Sd>3</Sd>
 			<Level>700</Level>
@@ -1122,55 +1065,25 @@
 			<Played>8</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>247.267483</Point>
+			<Point>247</Point>
 			<Win>4</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
-			<Score>100</Score>
-			<LostScore>60</LostScore>
 			<PlaySec>5793</PlaySec>
-			<PlayTime>1시간 36분 33초 </PlayTime>
+			<PlayTime>1시간 36분 33초</PlayTime>
 			<Tags></Tags>
 			<Sd>4</Sd>
 			<Level>200</Level>
 			<Leave>16:00:49</Leave>
 		</히오스>
 	</Leave>
-	<Game>
-		<Members>따당 트윈스:동우 대니</Members>
-		<Title>Round#7</Title>
-	</Game>
-	<GamePlaying>
-		<Court>2</Court>
-		<Members>까치 도우 현기 그레이</Members>
-		<Title>Round#7(예약)</Title>
-		<Start>16:00:04</Start>
-	</GamePlaying>
-	<GamePlaying>
-		<Court>3</Court>
-		<Members>포올 정훈:황하 져스틴</Members>
-		<Title>Round#7</Title>
-		<Start>16:01:12</Start>
-	</GamePlaying>
-	<GamePlaying>
-		<Court>4</Court>
-		<Members>구리 라봉:우기 제프</Members>
-		<Title>Round#7</Title>
-		<Start>16:03:16</Start>
-	</GamePlaying>
-	<GamePlaying>
-		<Court>1</Court>
-		<Members>브라운 사오:물곰 이오</Members>
-		<Title>Round#7</Title>
-		<Start>16:11:37</Start>
-	</GamePlaying>
 	<GameHistory>
 		<Court>3</Court>
 		<Members>포올 황하:트윈스 스톤</Members>
 		<Title>Round#0</Title>
 		<Start>12:29:37</Start>
 		<Finish>12:43:10</Finish>
-		<Elapsed>13분 33초 </Elapsed>
+		<Elapsed>13분 33초</Elapsed>
 		<ElapsedSec>813</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1180,7 +1093,7 @@
 		<Title>Round#0</Title>
 		<Start>12:32:44</Start>
 		<Finish>12:44:23</Finish>
-		<Elapsed>11분 39초 </Elapsed>
+		<Elapsed>11분 39초</Elapsed>
 		<ElapsedSec>699</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1190,7 +1103,7 @@
 		<Title>Round#0</Title>
 		<Start>12:36:31</Start>
 		<Finish>12:51:13</Finish>
-		<Elapsed>14분 42초 </Elapsed>
+		<Elapsed>14분 42초</Elapsed>
 		<ElapsedSec>882</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1200,7 +1113,7 @@
 		<Title>Round#0</Title>
 		<Start>12:44:24</Start>
 		<Finish>12:57:45</Finish>
-		<Elapsed>13분 21초 </Elapsed>
+		<Elapsed>13분 21초</Elapsed>
 		<ElapsedSec>801</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1210,7 +1123,7 @@
 		<Title>Round#0</Title>
 		<Start>12:43:11</Start>
 		<Finish>12:57:51</Finish>
-		<Elapsed>14분 40초 </Elapsed>
+		<Elapsed>14분 40초</Elapsed>
 		<ElapsedSec>880</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1220,7 +1133,7 @@
 		<Title>Round#0</Title>
 		<Start>12:48:29</Start>
 		<Finish>13:03:31</Finish>
-		<Elapsed>15분 2초 </Elapsed>
+		<Elapsed>15분 2초</Elapsed>
 		<ElapsedSec>902</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1230,7 +1143,7 @@
 		<Title>Round#0</Title>
 		<Start>12:51:13</Start>
 		<Finish>13:04:48</Finish>
-		<Elapsed>13분 35초 </Elapsed>
+		<Elapsed>13분 35초</Elapsed>
 		<ElapsedSec>815</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1240,7 +1153,7 @@
 		<Title>Round#0</Title>
 		<Start>12:57:52</Start>
 		<Finish>13:09:38</Finish>
-		<Elapsed>11분 46초 </Elapsed>
+		<Elapsed>11분 46초</Elapsed>
 		<ElapsedSec>706</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1250,7 +1163,7 @@
 		<Title>Round#0</Title>
 		<Start>12:57:45</Start>
 		<Finish>13:11:46</Finish>
-		<Elapsed>14분 1초 </Elapsed>
+		<Elapsed>14분 1초</Elapsed>
 		<ElapsedSec>841</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1650,7 +1563,7 @@
 		<Title>Round#5</Title>
 		<Start>15:07:08</Start>
 		<Finish>15:18:54</Finish>
-		<Elapsed>11분 46초 </Elapsed>
+		<Elapsed>11분 46초</Elapsed>
 		<ElapsedSec>706</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1660,7 +1573,7 @@
 		<Title>Round#5(예약)</Title>
 		<Start>15:08:49</Start>
 		<Finish>15:19:40</Finish>
-		<Elapsed>10분 51초 </Elapsed>
+		<Elapsed>10분 51초</Elapsed>
 		<ElapsedSec>651</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1670,7 +1583,7 @@
 		<Title>Round#5</Title>
 		<Start>15:13:30</Start>
 		<Finish>15:25:17</Finish>
-		<Elapsed>11분 47초 </Elapsed>
+		<Elapsed>11분 47초</Elapsed>
 		<ElapsedSec>707</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1680,7 +1593,7 @@
 		<Title>Round#5</Title>
 		<Start>15:18:54</Start>
 		<Finish>15:31:36</Finish>
-		<Elapsed>12분 42초 </Elapsed>
+		<Elapsed>12분 42초</Elapsed>
 		<ElapsedSec>762</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1690,7 +1603,7 @@
 		<Title>Round#5</Title>
 		<Start>15:19:40</Start>
 		<Finish>15:32:27</Finish>
-		<Elapsed>12분 47초 </Elapsed>
+		<Elapsed>12분 47초</Elapsed>
 		<ElapsedSec>767</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1700,7 +1613,7 @@
 		<Title>Round#5(예약)</Title>
 		<Start>15:17:55</Start>
 		<Finish>15:34:53</Finish>
-		<Elapsed>16분 58초 </Elapsed>
+		<Elapsed>16분 58초</Elapsed>
 		<ElapsedSec>1018</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1710,7 +1623,7 @@
 		<Title>Round#5</Title>
 		<Start>15:25:18</Start>
 		<Finish>15:38:47</Finish>
-		<Elapsed>13분 29초 </Elapsed>
+		<Elapsed>13분 29초</Elapsed>
 		<ElapsedSec>809</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1720,7 +1633,7 @@
 		<Title>Round#5</Title>
 		<Start>15:32:29</Start>
 		<Finish>15:43:42</Finish>
-		<Elapsed>11분 13초 </Elapsed>
+		<Elapsed>11분 13초</Elapsed>
 		<ElapsedSec>673</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1730,7 +1643,7 @@
 		<Title>Round#5</Title>
 		<Start>15:31:37</Start>
 		<Finish>15:47:37</Finish>
-		<Elapsed>16분 </Elapsed>
+		<Elapsed>16분</Elapsed>
 		<ElapsedSec>960</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1740,7 +1653,7 @@
 		<Title>Round#6</Title>
 		<Start>15:34:53</Start>
 		<Finish>15:47:44</Finish>
-		<Elapsed>12분 51초 </Elapsed>
+		<Elapsed>12분 51초</Elapsed>
 		<ElapsedSec>771</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1750,7 +1663,7 @@
 		<Title>Round#6</Title>
 		<Start>15:38:47</Start>
 		<Finish>15:48:43</Finish>
-		<Elapsed>9분 56초 </Elapsed>
+		<Elapsed>9분 56초</Elapsed>
 		<ElapsedSec>596</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1760,7 +1673,7 @@
 		<Title>Round#6</Title>
 		<Start>15:43:46</Start>
 		<Finish>15:57:27</Finish>
-		<Elapsed>13분 41초 </Elapsed>
+		<Elapsed>13분 41초</Elapsed>
 		<ElapsedSec>821</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1770,7 +1683,7 @@
 		<Title>Round#6</Title>
 		<Start>15:47:45</Start>
 		<Finish>15:59:04</Finish>
-		<Elapsed>11분 19초 </Elapsed>
+		<Elapsed>11분 19초</Elapsed>
 		<ElapsedSec>679</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1780,7 +1693,7 @@
 		<Title>Round#6</Title>
 		<Start>15:59:31</Start>
 		<Finish>16:00:02</Finish>
-		<Elapsed>31초 </Elapsed>
+		<Elapsed>31초</Elapsed>
 		<ElapsedSec>31</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1790,7 +1703,7 @@
 		<Title>Round#6</Title>
 		<Start>15:48:44</Start>
 		<Finish>16:02:32</Finish>
-		<Elapsed>13분 48초 </Elapsed>
+		<Elapsed>13분 48초</Elapsed>
 		<ElapsedSec>828</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -1800,8 +1713,58 @@
 		<Title>Round#6</Title>
 		<Start>15:57:27</Start>
 		<Finish>16:11:37</Finish>
-		<Elapsed>14분 10초 </Elapsed>
+		<Elapsed>14분 10초</Elapsed>
 		<ElapsedSec>850</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>2</Court>
+		<Members>까치 도우 현기 그레이</Members>
+		<Title>Round#7(예약)</Title>
+		<Start>16:00:04</Start>
+		<Finish>16:13:57</Finish>
+		<Elapsed>13분 53초 </Elapsed>
+		<ElapsedSec>833</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>브라운 사오:물곰 이오</Members>
+		<Title>Round#7</Title>
+		<Start>16:11:37</Start>
+		<Finish>16:14:38</Finish>
+		<Elapsed>3분 1초 </Elapsed>
+		<ElapsedSec>181</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>3</Court>
+		<Members>포올 정훈:황하 져스틴</Members>
+		<Title>Round#7</Title>
+		<Start>16:01:12</Start>
+		<Finish>16:14:38</Finish>
+		<Elapsed>13분 26초 </Elapsed>
+		<ElapsedSec>806</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>4</Court>
+		<Members>구리 라봉:우기 제프</Members>
+		<Title>Round#7</Title>
+		<Start>16:03:16</Start>
+		<Finish>16:14:39</Finish>
+		<Elapsed>11분 23초 </Elapsed>
+		<ElapsedSec>683</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>2</Court>
+		<Members>따당 트윈스:동우 스톤</Members>
+		<Title>Round#7</Title>
+		<Start>16:13:58</Start>
+		<Finish>16:14:41</Finish>
+		<Elapsed>43초 </Elapsed>
+		<ElapsedSec>43</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
 </root>
