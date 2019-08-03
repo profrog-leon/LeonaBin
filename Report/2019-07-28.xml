@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="EUC-KR"?>
 <root>
 	<Date>2019-07-28</Date>
-	<RoundCount>3</RoundCount>
+	<RoundCount>5</RoundCount>
+	<Account>
+		<UID>15</UID>
+		<Time>14:42:15</Time>
+		<Name>업</Name>
+		<Amount>1</Amount>
+		<Bill>16000</Bill>
+		<Tags>콕 판매</Tags>
+	</Account>
+	<Account>
+		<UID>14</UID>
+		<Time>14:33:47</Time>
+		<Name>군이</Name>
+		<Amount>1</Amount>
+		<Bill>0</Bill>
+		<Tags>콕 판매(16000원 외상)</Tags>
+	</Account>
 	<Account>
 		<UID>13</UID>
 		<Time>13:22:41</Time>
@@ -117,368 +133,324 @@
 	<Stock>
 		<Name>콕 재고</Name>
 		<Stock>10</Stock>
-		<Current>8</Current>
+		<Current>6</Current>
 		<Tags></Tags>
 	</Stock>
 	<Stock>
 		<Name>현금</Name>
 		<Stock>0</Stock>
-		<Current>87000</Current>
+		<Current>103000</Current>
 		<Tags></Tags>
 	</Stock>
 	<Stock>
 		<Name>입장한 회원 수</Name>
 		<Stock>0</Stock>
-		<Current>22</Current>
+		<Current>23</Current>
 		<Tags></Tags>
 	</Stock>
 	<Stock>
 		<Name>현재 게임중인 회원 수</Name>
 		<Stock>0</Stock>
-		<Current>21</Current>
+		<Current>18</Current>
 		<Tags></Tags>
 	</Stock>
 	<Stock>
 		<Name>전체 운용한 게임 수</Name>
 		<Stock>0</Stock>
-		<Current>21</Current>
+		<Current>43</Current>
 		<Tags></Tags>
 	</Stock>
-	<Waiting>레온</Waiting>
+	<Waiting>경훈</Waiting>
+	<Waiting>군이</Waiting>
+	<Waiting>기춘</Waiting>
+	<Waiting>까치</Waiting>
+	<Waiting>떡보</Waiting>
+	<Waiting>베브</Waiting>
 	<Waiting>비니</Waiting>
+	<Waiting>사자</Waiting>
 	<Waiting>업</Waiting>
+	<Waiting>우기</Waiting>
+	<Waiting>쟈니</Waiting>
+	<Waiting>정훈</Waiting>
+	<Waiting>제로</Waiting>
 	<Waiting>제프</Waiting>
+	<Waiting>주코</Waiting>
 	<Waiting>콕돌이</Waiting>
+	<Waiting>트윈스</Waiting>
+	<Waiting>황하</Waiting>
 	<Attend>
-		<가필드>
-			<Name>가필드</Name>
-			<EndTime>14:03:55</EndTime>
-			<Enter>11:33:46</Enter>
-			<Played>3</Played>
-			<Variety>100.0%</Variety>
-			<Paid>0</Paid>
-			<Point>100.000000</Point>
-			<Win>0</Win>
-			<Lost>0</Lost>
-			<Draw>0</Draw>
-			<Score>0</Score>
-			<LostScore>0</LostScore>
-			<PlaySec>1495</PlaySec>
-			<PlayTime>24분 55초 </PlayTime>
-			<Tags></Tags>
-			<Sd>1</Sd>
-			<Level>100</Level>
-		</가필드>
 		<경훈>
 			<Name>경훈</Name>
-			<EndTime>14:00:38</EndTime>
+			<EndTime>15:47:39</EndTime>
 			<Enter>12:23:40</Enter>
-			<Played>5</Played>
-			<Variety>69.2%</Variety>
+			<Played>8</Played>
+			<Variety>100.0%</Variety>
 			<Paid>5000</Paid>
-			<Point>500.000000</Point>
+			<Point>519.000000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>2889</PlaySec>
-			<PlayTime>48분 9초 </PlayTime>
+			<PlaySec>5902</PlaySec>
+			<PlayTime>1시간 38분 22초 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>500</Level>
 		</경훈>
-		<규석>
-			<Name>규석</Name>
-			<EndTime>14:03:55</EndTime>
-			<Enter>12:23:39</Enter>
-			<Played>5</Played>
-			<Variety>70.0%</Variety>
-			<Paid>5000</Paid>
-			<Point>400.000000</Point>
+		<군이>
+			<Name>군이</Name>
+			<EndTime>15:47:38</EndTime>
+			<Enter>14:29:49</Enter>
+			<Played>3</Played>
+			<Variety>69.2%</Variety>
+			<Paid>0</Paid>
+			<Point>804.700000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>2947</PlaySec>
-			<PlayTime>49분 7초 </PlayTime>
+			<PlaySec>2215</PlaySec>
+			<PlayTime>36분 55초 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
-			<Level>400</Level>
-		</규석>
+			<Level>800</Level>
+		</군이>
 		<기춘>
 			<Name>기춘</Name>
-			<EndTime>14:00:38</EndTime>
+			<EndTime>15:47:40</EndTime>
 			<Enter>12:06:07</Enter>
-			<Played>4</Played>
-			<Variety>76.9%</Variety>
+			<Played>8</Played>
+			<Variety>81.3%</Variety>
 			<Paid>16000</Paid>
-			<Point>700.000000</Point>
+			<Point>707.333333</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>2466</PlaySec>
-			<PlayTime>41분 6초 </PlayTime>
+			<PlaySec>4871</PlaySec>
+			<PlayTime>1시간 21분 11초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>700</Level>
 		</기춘>
 		<까치>
 			<Name>까치</Name>
-			<EndTime>14:16:20</EndTime>
+			<EndTime>15:47:40</EndTime>
 			<Enter>11:33:44</Enter>
-			<Played>6</Played>
-			<Variety>76.9%</Variety>
+			<Played>11</Played>
+			<Variety>86.7%</Variety>
 			<Paid>21000</Paid>
-			<Point>700.000000</Point>
+			<Point>723.482143</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>3582</PlaySec>
-			<PlayTime>59분 42초 </PlayTime>
+			<PlaySec>6420</PlaySec>
+			<PlayTime>1시간 47분 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>700</Level>
 		</까치>
-		<대니>
-			<Name>대니</Name>
-			<EndTime>14:15:12</EndTime>
-			<Enter>13:22:41</Enter>
-			<Played>3</Played>
-			<Variety>66.7%</Variety>
-			<Paid>5000</Paid>
-			<Point>350.000000</Point>
-			<Win>0</Win>
-			<Lost>0</Lost>
-			<Draw>0</Draw>
-			<Score>0</Score>
-			<LostScore>0</LostScore>
-			<PlaySec>1640</PlaySec>
-			<PlayTime>27분 20초 </PlayTime>
-			<Tags></Tags>
-			<Sd>0</Sd>
-			<Level>350</Level>
-		</대니>
 		<떡보>
 			<Name>떡보</Name>
-			<EndTime>14:00:38</EndTime>
+			<EndTime>15:44:43</EndTime>
 			<Enter>11:42:06</Enter>
-			<Played>5</Played>
-			<Variety>69.2%</Variety>
+			<Played>8</Played>
+			<Variety>84.6%</Variety>
 			<Paid>5000</Paid>
-			<Point>500.000000</Point>
+			<Point>524.571429</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>2574</PlaySec>
-			<PlayTime>42분 54초 </PlayTime>
+			<PlaySec>5500</PlaySec>
+			<PlayTime>1시간 31분 40초 </PlayTime>
 			<Tags></Tags>
-			<Sd>0</Sd>
+			<Sd>3</Sd>
 			<Level>500</Level>
 		</떡보>
-		<레온>
-			<Name>레온</Name>
-			<EndTime>14:16:20</EndTime>
-			<Enter>12:33:19</Enter>
-			<Played>5</Played>
-			<Variety>84.6%</Variety>
-			<Paid>0</Paid>
-			<Point>400.000000</Point>
-			<Win>0</Win>
-			<Lost>0</Lost>
-			<Draw>0</Draw>
-			<Score>0</Score>
-			<LostScore>0</LostScore>
-			<PlaySec>3874</PlaySec>
-			<PlayTime>1시간 4분 34초 </PlayTime>
-			<Tags></Tags>
-			<Sd>2</Sd>
-			<Level>400</Level>
-		</레온>
 		<베브>
 			<Name>베브</Name>
-			<EndTime>14:14:56</EndTime>
+			<EndTime>15:47:40</EndTime>
 			<Enter>12:23:40</Enter>
-			<Played>5</Played>
-			<Variety>57.1%</Variety>
+			<Played>9</Played>
+			<Variety>93.3%</Variety>
 			<Paid>5000</Paid>
-			<Point>900.000000</Point>
+			<Point>909.000000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>3261</PlaySec>
-			<PlayTime>54분 21초 </PlayTime>
+			<PlaySec>6304</PlaySec>
+			<PlayTime>1시간 45분 4초 </PlayTime>
 			<Tags></Tags>
-			<Sd>1</Sd>
+			<Sd>2</Sd>
 			<Level>900</Level>
 		</베브>
 		<비니>
 			<Name>비니</Name>
-			<EndTime>14:25:22</EndTime>
+			<EndTime>15:47:39</EndTime>
 			<Enter>14:01:07</Enter>
-			<Played>1</Played>
-			<Variety>37.5%</Variety>
+			<Played>5</Played>
+			<Variety>72.7%</Variety>
 			<Paid>0</Paid>
-			<Point>1000.000000</Point>
+			<Point>1017.000000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>625</PlaySec>
-			<PlayTime>10분 25초 </PlayTime>
+			<PlaySec>3285</PlaySec>
+			<PlayTime>54분 45초 </PlayTime>
 			<Tags></Tags>
-			<Sd>0</Sd>
+			<Sd>1</Sd>
 			<Level>1000</Level>
 		</비니>
 		<사자>
 			<Name>사자</Name>
-			<EndTime>14:14:56</EndTime>
+			<EndTime>15:47:38</EndTime>
 			<Enter>13:04:26</Enter>
-			<Played>4</Played>
-			<Variety>46.2%</Variety>
+			<Played>7</Played>
+			<Variety>64.3%</Variety>
 			<Paid>5000</Paid>
-			<Point>800.000000</Point>
+			<Point>819.000000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>2619</PlaySec>
-			<PlayTime>43분 39초 </PlayTime>
+			<PlaySec>4791</PlaySec>
+			<PlayTime>1시간 19분 51초 </PlayTime>
 			<Tags></Tags>
-			<Sd>0</Sd>
+			<Sd>1</Sd>
 			<Level>800</Level>
 		</사자>
 		<업>
 			<Name>업</Name>
-			<EndTime>14:25:22</EndTime>
+			<EndTime>15:47:39</EndTime>
 			<Enter>11:42:07</Enter>
-			<Played>5</Played>
-			<Variety>61.5%</Variety>
-			<Paid>5000</Paid>
-			<Point>900.000000</Point>
+			<Played>9</Played>
+			<Variety>84.6%</Variety>
+			<Paid>21000</Paid>
+			<Point>926.714286</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>3303</PlaySec>
-			<PlayTime>55분 3초 </PlayTime>
+			<PlaySec>5127</PlaySec>
+			<PlayTime>1시간 25분 27초 </PlayTime>
 			<Tags></Tags>
-			<Sd>0</Sd>
+			<Sd>1</Sd>
 			<Level>900</Level>
 		</업>
 		<우기>
 			<Name>우기</Name>
-			<EndTime>14:16:20</EndTime>
+			<EndTime>15:47:39</EndTime>
 			<Enter>11:33:41</Enter>
-			<Played>6</Played>
-			<Variety>76.5%</Variety>
+			<Played>10</Played>
+			<Variety>84.2%</Variety>
 			<Paid>0</Paid>
-			<Point>900.000000</Point>
+			<Point>911.250000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>4108</PlaySec>
-			<PlayTime>1시간 8분 28초 </PlayTime>
+			<PlaySec>6743</PlaySec>
+			<PlayTime>1시간 52분 23초 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>900</Level>
 		</우기>
 		<쟈니>
 			<Name>쟈니</Name>
-			<EndTime>14:16:20</EndTime>
+			<EndTime>15:47:39</EndTime>
 			<Enter>11:33:47</Enter>
-			<Played>5</Played>
-			<Variety>73.3%</Variety>
+			<Played>9</Played>
+			<Variety>93.3%</Variety>
 			<Paid>0</Paid>
-			<Point>500.000000</Point>
+			<Point>511.363636</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>3034</PlaySec>
-			<PlayTime>50분 34초 </PlayTime>
+			<PlaySec>6075</PlaySec>
+			<PlayTime>1시간 41분 15초 </PlayTime>
 			<Tags></Tags>
-			<Sd>1</Sd>
+			<Sd>2</Sd>
 			<Level>500</Level>
 		</쟈니>
 		<정훈>
 			<Name>정훈</Name>
-			<EndTime>14:15:12</EndTime>
+			<EndTime>15:47:40</EndTime>
 			<Enter>11:42:57</Enter>
-			<Played>5</Played>
-			<Variety>75.0%</Variety>
+			<Played>9</Played>
+			<Variety>92.9%</Variety>
 			<Paid>0</Paid>
-			<Point>1000.000000</Point>
+			<Point>1017.250000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>3344</PlaySec>
-			<PlayTime>55분 44초 </PlayTime>
+			<PlaySec>6340</PlaySec>
+			<PlayTime>1시간 45분 40초 </PlayTime>
 			<Tags></Tags>
 			<Sd>2</Sd>
 			<Level>1000</Level>
 		</정훈>
 		<제로>
 			<Name>제로</Name>
-			<EndTime>14:15:12</EndTime>
+			<EndTime>15:47:39</EndTime>
 			<Enter>11:33:45</Enter>
-			<Played>5</Played>
-			<Variety>62.5%</Variety>
+			<Played>9</Played>
+			<Variety>81.3%</Variety>
 			<Paid>0</Paid>
-			<Point>700.000000</Point>
+			<Point>719.727273</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>3077</PlaySec>
-			<PlayTime>51분 17초 </PlayTime>
+			<PlaySec>6118</PlaySec>
+			<PlayTime>1시간 41분 58초 </PlayTime>
 			<Tags></Tags>
 			<Sd>1</Sd>
 			<Level>700</Level>
 		</제로>
 		<제프>
 			<Name>제프</Name>
-			<EndTime>14:25:22</EndTime>
+			<EndTime>15:47:38</EndTime>
 			<Enter>11:40:31</Enter>
-			<Played>5</Played>
+			<Played>9</Played>
 			<Variety>100.0%</Variety>
 			<Paid>0</Paid>
-			<Point>1000.000000</Point>
+			<Point>1017.532468</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>4162</PlaySec>
-			<PlayTime>1시간 9분 22초 </PlayTime>
+			<PlaySec>5935</PlaySec>
+			<PlayTime>1시간 38분 55초 </PlayTime>
 			<Tags></Tags>
-			<Sd>0</Sd>
+			<Sd>1</Sd>
 			<Level>1000</Level>
 		</제프>
 		<주코>
 			<Name>주코</Name>
-			<EndTime>14:03:55</EndTime>
+			<EndTime>15:47:39</EndTime>
 			<Enter>11:40:26</Enter>
-			<Played>5</Played>
-			<Variety>91.7%</Variety>
+			<Played>9</Played>
+			<Variety>100.0%</Variety>
 			<Paid>5000</Paid>
 			<Point>350.000000</Point>
 			<Win>0</Win>
@@ -486,114 +458,172 @@
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>2814</PlaySec>
-			<PlayTime>46분 54초 </PlayTime>
+			<PlaySec>6413</PlaySec>
+			<PlayTime>1시간 46분 53초 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>350</Level>
 		</주코>
 		<콕돌이>
 			<Name>콕돌이</Name>
-			<EndTime>14:25:22</EndTime>
+			<EndTime>15:47:39</EndTime>
 			<Enter>12:40:10</Enter>
-			<Played>4</Played>
-			<Variety>60.0%</Variety>
+			<Played>8</Played>
+			<Variety>100.0%</Variety>
 			<Paid>0</Paid>
-			<Point>1000.000000</Point>
+			<Point>1019.000000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>3131</PlaySec>
-			<PlayTime>52분 11초 </PlayTime>
+			<PlaySec>5043</PlaySec>
+			<PlayTime>1시간 24분 3초 </PlayTime>
 			<Tags></Tags>
 			<Sd>0</Sd>
 			<Level>1000</Level>
 		</콕돌이>
 		<트윈스>
 			<Name>트윈스</Name>
-			<EndTime>14:15:12</EndTime>
+			<EndTime>15:32:06</EndTime>
 			<Enter>11:33:43</Enter>
-			<Played>5</Played>
-			<Variety>80.0%</Variety>
+			<Played>7</Played>
+			<Variety>100.0%</Variety>
 			<Paid>5000</Paid>
-			<Point>400.000000</Point>
+			<Point>422.277778</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>2774</PlaySec>
-			<PlayTime>46분 14초 </PlayTime>
+			<PlaySec>5112</PlaySec>
+			<PlayTime>1시간 25분 12초 </PlayTime>
 			<Tags></Tags>
-			<Sd>1</Sd>
+			<Sd>3</Sd>
 			<Level>400</Level>
 		</트윈스>
 		<황하>
 			<Name>황하</Name>
-			<EndTime>14:14:56</EndTime>
+			<EndTime>15:47:38</EndTime>
 			<Enter>11:43:06</Enter>
-			<Played>5</Played>
-			<Variety>60.0%</Variety>
+			<Played>9</Played>
+			<Variety>87.5%</Variety>
 			<Paid>5000</Paid>
-			<Point>800.000000</Point>
+			<Point>801.750000</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>3856</PlaySec>
-			<PlayTime>1시간 4분 16초 </PlayTime>
+			<PlaySec>6667</PlaySec>
+			<PlayTime>1시간 51분 7초 </PlayTime>
 			<Tags></Tags>
-			<Sd>0</Sd>
+			<Sd>3</Sd>
 			<Level>800</Level>
 		</황하>
 	</Attend>
 	<Leave>
-		<코난>
-			<Name>코난</Name>
-			<EndTime>14:03:55</EndTime>
-			<Enter>11:42:58</Enter>
+		<가필드>
+			<Name>가필드</Name>
+			<EndTime>14:40:23</EndTime>
+			<Enter>11:33:46</Enter>
 			<Played>4</Played>
 			<Variety>NA</Variety>
 			<Paid>0</Paid>
-			<Point>700.000000</Point>
+			<Point>113.814286</Point>
 			<Win>0</Win>
 			<Lost>0</Lost>
 			<Draw>0</Draw>
 			<Score>0</Score>
 			<LostScore>0</LostScore>
-			<PlaySec>2465</PlaySec>
-			<PlayTime>41분 5초 </PlayTime>
+			<PlaySec>2395</PlaySec>
+			<PlayTime>39분 55초 </PlayTime>
 			<Tags></Tags>
-			<Sd>0</Sd>
+			<Sd>2</Sd>
+			<Level>100</Level>
+			<Leave>14:57:44</Leave>
+		</가필드>
+		<규석>
+			<Name>규석</Name>
+			<EndTime>15:33:58</EndTime>
+			<Enter>12:23:39</Enter>
+			<Played>7</Played>
+			<Variety>NA</Variety>
+			<Paid>5000</Paid>
+			<Point>417.958333</Point>
+			<Win>0</Win>
+			<Lost>0</Lost>
+			<Draw>0</Draw>
+			<Score>0</Score>
+			<LostScore>0</LostScore>
+			<PlaySec>4885</PlaySec>
+			<PlayTime>1시간 21분 25초 </PlayTime>
+			<Tags></Tags>
+			<Sd>1</Sd>
+			<Level>400</Level>
+			<Leave>15:34:12</Leave>
+		</규석>
+		<대니>
+			<Name>대니</Name>
+			<EndTime>15:32:06</EndTime>
+			<Enter>13:22:41</Enter>
+			<Played>5</Played>
+			<Variety>NA</Variety>
+			<Paid>5000</Paid>
+			<Point>350.000000</Point>
+			<Win>0</Win>
+			<Lost>0</Lost>
+			<Draw>0</Draw>
+			<Score>0</Score>
+			<LostScore>0</LostScore>
+			<PlaySec>3978</PlaySec>
+			<PlayTime>1시간 6분 18초 </PlayTime>
+			<Tags></Tags>
+			<Sd>3</Sd>
+			<Level>350</Level>
+			<Leave>15:34:37</Leave>
+		</대니>
+		<레온>
+			<Name>레온</Name>
+			<EndTime>14:50:50</EndTime>
+			<Enter>12:33:19</Enter>
+			<Played>7</Played>
+			<Variety>NA</Variety>
+			<Paid>0</Paid>
+			<Point>402.000000</Point>
+			<Win>0</Win>
+			<Lost>0</Lost>
+			<Draw>0</Draw>
+			<Score>0</Score>
+			<LostScore>0</LostScore>
+			<PlaySec>4892</PlaySec>
+			<PlayTime>1시간 21분 32초 </PlayTime>
+			<Tags></Tags>
+			<Sd>3</Sd>
+			<Level>400</Level>
+			<Leave>14:57:46</Leave>
+		</레온>
+		<코난>
+			<Name>코난</Name>
+			<EndTime>15:26:25</EndTime>
+			<Enter>11:42:58</Enter>
+			<Played>6</Played>
+			<Variety>NA</Variety>
+			<Paid>0</Paid>
+			<Point>722.435714</Point>
+			<Win>0</Win>
+			<Lost>0</Lost>
+			<Draw>0</Draw>
+			<Score>0</Score>
+			<LostScore>0</LostScore>
+			<PlaySec>3153</PlaySec>
+			<PlayTime>52분 33초 </PlayTime>
+			<Tags></Tags>
+			<Sd>1</Sd>
 			<Level>700</Level>
-			<Leave>14:05:02</Leave>
+			<Leave>15:32:23</Leave>
 		</코난>
 	</Leave>
-	<Game>
-		<Members>경훈-까치-우기-떡보</Members>
-		<Title>Round#2</Title>
-	</Game>
-	<GamePlaying>
-		<Court>1</Court>
-		<Members>베브--사자-황하-정훈</Members>
-		<Title>Round#2</Title>
-		<Start>14:15:37</Start>
-	</GamePlaying>
-	<GamePlaying>
-		<Court>3</Court>
-		<Members>기춘-제로-쟈니-주코</Members>
-		<Title>Round#2</Title>
-		<Start>14:18:30</Start>
-	</GamePlaying>
-	<GamePlaying>
-		<Court>2</Court>
-		<Members>트윈스-대니-규석-가필드</Members>
-		<Title>Round#2</Title>
-		<Start>14:25:23</Start>
-	</GamePlaying>
 	<GameHistory>
 		<Court>3</Court>
 		<Members>업-까치-떡보-경훈</Members>
@@ -710,7 +740,7 @@
 		<Title></Title>
 		<Start>13:24:59</Start>
 		<Finish>13:43:01</Finish>
-		<Elapsed>18분 2초 </Elapsed>
+		<Elapsed>18분 2초</Elapsed>
 		<ElapsedSec>1082</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -720,7 +750,7 @@
 		<Title></Title>
 		<Start>13:34:28</Start>
 		<Finish>13:45:46</Finish>
-		<Elapsed>11분 18초 </Elapsed>
+		<Elapsed>11분 18초</Elapsed>
 		<ElapsedSec>678</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -730,7 +760,7 @@
 		<Title></Title>
 		<Start>13:37:40</Start>
 		<Finish>13:50:24</Finish>
-		<Elapsed>12분 44초 </Elapsed>
+		<Elapsed>12분 44초</Elapsed>
 		<ElapsedSec>764</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -740,7 +770,7 @@
 		<Title></Title>
 		<Start>13:43:02</Start>
 		<Finish>13:58:34</Finish>
-		<Elapsed>15분 32초 </Elapsed>
+		<Elapsed>15분 32초</Elapsed>
 		<ElapsedSec>932</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -750,7 +780,7 @@
 		<Title></Title>
 		<Start>13:45:46</Start>
 		<Finish>14:00:38</Finish>
-		<Elapsed>14분 52초 </Elapsed>
+		<Elapsed>14분 52초</Elapsed>
 		<ElapsedSec>892</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -760,7 +790,7 @@
 		<Title></Title>
 		<Start>13:51:47</Start>
 		<Finish>14:03:55</Finish>
-		<Elapsed>12분 8초 </Elapsed>
+		<Elapsed>12분 8초</Elapsed>
 		<ElapsedSec>728</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -770,7 +800,7 @@
 		<Title></Title>
 		<Start>13:58:36</Start>
 		<Finish>14:14:56</Finish>
-		<Elapsed>16분 20초 </Elapsed>
+		<Elapsed>16분 20초</Elapsed>
 		<ElapsedSec>980</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -780,7 +810,7 @@
 		<Title></Title>
 		<Start>14:00:39</Start>
 		<Finish>14:15:12</Finish>
-		<Elapsed>14분 33초 </Elapsed>
+		<Elapsed>14분 33초</Elapsed>
 		<ElapsedSec>873</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -790,7 +820,7 @@
 		<Title>Round#2</Title>
 		<Start>14:03:56</Start>
 		<Finish>14:16:20</Finish>
-		<Elapsed>12분 24초 </Elapsed>
+		<Elapsed>12분 24초</Elapsed>
 		<ElapsedSec>744</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
@@ -800,8 +830,238 @@
 		<Title>Round#2</Title>
 		<Start>14:14:57</Start>
 		<Finish>14:25:22</Finish>
-		<Elapsed>10분 25초 </Elapsed>
+		<Elapsed>10분 25초</Elapsed>
 		<ElapsedSec>625</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>3</Court>
+		<Members>기춘-제로-쟈니-주코</Members>
+		<Title>Round#2</Title>
+		<Start>14:18:30</Start>
+		<Finish>14:30:32</Finish>
+		<Elapsed>12분 2초</Elapsed>
+		<ElapsedSec>722</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>베브--사자-황하-정훈</Members>
+		<Title>Round#2</Title>
+		<Start>14:15:37</Start>
+		<Finish>14:32:38</Finish>
+		<Elapsed>17분 1초</Elapsed>
+		<ElapsedSec>1021</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>2</Court>
+		<Members>트윈스-대니-규석-가필드</Members>
+		<Title>Round#2</Title>
+		<Start>14:25:23</Start>
+		<Finish>14:40:23</Finish>
+		<Elapsed>15분</Elapsed>
+		<ElapsedSec>900</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>3</Court>
+		<Members>경훈-까치-우기-떡보</Members>
+		<Title>Round#2</Title>
+		<Start>14:30:33</Start>
+		<Finish>14:43:07</Finish>
+		<Elapsed>12분 34초</Elapsed>
+		<ElapsedSec>754</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>비니 레온 주코 군이</Members>
+		<Title>Round#3(예약)</Title>
+		<Start>14:33:52</Start>
+		<Finish>14:50:50</Finish>
+		<Elapsed>16분 58초</Elapsed>
+		<ElapsedSec>1018</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>베브-기춘-우기-정훈</Members>
+		<Title>Round#3</Title>
+		<Start>14:50:51</Start>
+		<Finish>14:54:50</Finish>
+		<Elapsed>3분 59초</Elapsed>
+		<ElapsedSec>239</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>3</Court>
+		<Members>대니-경훈-떡보-트윈스</Members>
+		<Title>Round#3</Title>
+		<Start>14:44:42</Start>
+		<Finish>14:56:50</Finish>
+		<Elapsed>12분 8초 </Elapsed>
+		<ElapsedSec>728</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>쟈니-까치-황하-제로</Members>
+		<Title>Round#3</Title>
+		<Start>14:54:51</Start>
+		<Finish>15:01:35</Finish>
+		<Elapsed>6분 44초 </Elapsed>
+		<ElapsedSec>404</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>콕돌이-제프-사자-업</Members>
+		<Title>Round#3</Title>
+		<Start>15:02:16</Start>
+		<Finish>15:02:17</Finish>
+		<Elapsed>1초 </Elapsed>
+		<ElapsedSec>1</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>2</Court>
+		<Members>쟈니-제로-까치-황하</Members>
+		<Title></Title>
+		<Start>15:02:49</Start>
+		<Finish>15:06:45</Finish>
+		<Elapsed>3분 56초 </Elapsed>
+		<ElapsedSec>236</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>3</Court>
+		<Members>가필드-규석 레온 주코</Members>
+		<Title>Round#3</Title>
+		<Start>15:02:22</Start>
+		<Finish>15:07:16</Finish>
+		<Elapsed>4분 54초 </Elapsed>
+		<ElapsedSec>294</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>비니-우기-업-제프</Members>
+		<Title>Round#4</Title>
+		<Start>15:02:53</Start>
+		<Finish>15:14:56</Finish>
+		<Elapsed>12분 3초 </Elapsed>
+		<ElapsedSec>723</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>2</Court>
+		<Members>황하-콕돌이-사자-정훈</Members>
+		<Title>Round#4</Title>
+		<Start>15:06:45</Start>
+		<Finish>15:20:16</Finish>
+		<Elapsed>13분 31초 </Elapsed>
+		<ElapsedSec>811</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>3</Court>
+		<Members>베브 제로 쟈니 군이</Members>
+		<Title>Round#4</Title>
+		<Start>15:07:16</Start>
+		<Finish>15:21:34</Finish>
+		<Elapsed>14분 18초 </Elapsed>
+		<ElapsedSec>858</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>코난-까치-기춘-떡보</Members>
+		<Title>Round#4</Title>
+		<Start>15:14:57</Start>
+		<Finish>15:26:25</Finish>
+		<Elapsed>11분 28초 </Elapsed>
+		<ElapsedSec>688</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>2</Court>
+		<Members>경훈-대니-트윈스 제프</Members>
+		<Title>Round#4</Title>
+		<Start>15:20:16</Start>
+		<Finish>15:32:06</Finish>
+		<Elapsed>11분 50초 </Elapsed>
+		<ElapsedSec>710</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>3</Court>
+		<Members>주코 우기 비니 규석</Members>
+		<Title>Round#5</Title>
+		<Start>15:21:34</Start>
+		<Finish>15:33:58</Finish>
+		<Elapsed>12분 24초 </Elapsed>
+		<ElapsedSec>744</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>업-정훈-베브-콕돌이</Members>
+		<Title>Round#5</Title>
+		<Start>15:26:25</Start>
+		<Finish>15:41:50</Finish>
+		<Elapsed>15분 25초 </Elapsed>
+		<ElapsedSec>925</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>2</Court>
+		<Members>떡보-코난-기춘-까치</Members>
+		<Title>Round#5</Title>
+		<Start>15:32:07</Start>
+		<Finish>15:44:43</Finish>
+		<Elapsed>12분 36초 </Elapsed>
+		<ElapsedSec>756</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>황하-제프-군이-사자</Members>
+		<Title>Round#5</Title>
+		<Start>15:41:59</Start>
+		<Finish>15:47:38</Finish>
+		<Elapsed>5분 39초 </Elapsed>
+		<ElapsedSec>339</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>2</Court>
+		<Members>콕돌이-우기-업-비니</Members>
+		<Title></Title>
+		<Start>15:44:44</Start>
+		<Finish>15:47:39</Finish>
+		<Elapsed>2분 55초 </Elapsed>
+		<ElapsedSec>175</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>3</Court>
+		<Members>주코-제로-쟈니-경훈</Members>
+		<Title>Round#5</Title>
+		<Start>15:33:58</Start>
+		<Finish>15:47:39</Finish>
+		<Elapsed>13분 41초 </Elapsed>
+		<ElapsedSec>821</ElapsedSec>
+		<Score>0:0</Score>
+	</GameHistory>
+	<GameHistory>
+		<Court>1</Court>
+		<Members>정훈-베브-까치-기춘</Members>
+		<Title></Title>
+		<Start>15:47:39</Start>
+		<Finish>15:47:40</Finish>
+		<Elapsed>1초 </Elapsed>
+		<ElapsedSec>1</ElapsedSec>
 		<Score>0:0</Score>
 	</GameHistory>
 </root>
